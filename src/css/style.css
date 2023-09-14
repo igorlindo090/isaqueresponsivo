@@ -26,5 +26,13 @@ body {
     text-align: center;
     margin: 30px;
     font-size: 18px;
-
 }
+
+.conteiner a {
+    padding: 10px;
+}
+
+.cabecalho a {
+    padding: 10px;
+}
+
